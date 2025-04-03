@@ -1,0 +1,5 @@
+O Git é um sistema de controle de versão que acompanha alterações em arquivos. É um software gratuito e de código aberto. 
+É distribuído, ou seja, cada desenvolvedor tem uma cópia completa do histórico do projeto
+É útil quando várias pessoas fazem alterações nos mesmos arquivos ao mesmo tempo
+É fácil de aprender
+Tem um desempenho rápido
